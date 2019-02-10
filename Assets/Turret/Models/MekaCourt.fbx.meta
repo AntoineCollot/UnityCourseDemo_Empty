@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: bf56d6c915c72164fbc1105d713e4e80
+timeCreated: 1548437779
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ground
+    100002: //RootNode
+    100004: Net
+    100006: Turret_Head
+    100008: Turret_Leg
+    100010: Wall
+    100012: Wall.001
+    100014: Wall.002
+    100016: Wall.003
+    400000: Ground
+    400002: //RootNode
+    400004: Net
+    400006: Turret_Head
+    400008: Turret_Leg
+    400010: Wall
+    400012: Wall.001
+    400014: Wall.002
+    400016: Wall.003
+    2300000: Ground
+    2300002: Net
+    2300004: Turret_Head
+    2300006: Turret_Leg
+    2300008: Wall
+    2300010: Wall.001
+    2300012: Wall.002
+    2300014: Wall.003
+    3300000: Ground
+    3300002: Net
+    3300004: Turret_Head
+    3300006: Turret_Leg
+    3300008: Wall
+    3300010: Wall.001
+    3300012: Wall.002
+    3300014: Wall.003
+    4300000: Net
+    4300002: Wall.003
+    4300004: Wall.002
+    4300006: Wall.001
+    4300008: Wall
+    4300010: Ground
+    4300012: Turret_Head
+    4300014: Turret_Leg
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Grey
+    second: {fileID: 2100000, guid: d14f683d1a2348d4e9e1c92b16d997f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Grey.002
+    second: {fileID: 2100000, guid: 051776d7cf361904489726f688975061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Orange
+    second: {fileID: 2100000, guid: a5405a73fb39133488de12ef2b7b3de9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Orange.001
+    second: {fileID: 2100000, guid: 68432d6b9fbdcb941a869c70b2a176ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 40336fe3d6e1fb04cb18de4fb1a6b67f, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
